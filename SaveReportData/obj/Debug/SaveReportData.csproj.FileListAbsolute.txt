@@ -1,0 +1,56 @@
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\bin\Debug\SaveReportData.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\bin\Debug\Oracle.ManagedDataAccess.dll
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\obj\Debug\SaveReportData.exe
+c:\users\administrator\documents\visual studio 2015\Projects\SaveReportData\SaveReportData\obj\Debug\SaveReportData.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\SaveReportData\SaveReportData\obj\Debug\SaveReportData.ExceptionIp.resources
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe.config
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.exe
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.pdb
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\bin\Debug\SaveReportData.pdb
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.ExceptionIp.resources
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Form1.resources
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Properties.Resources.resources
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csproj.GenerateResource.Cache
+E:\Vuongnd-StoreProject\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csprojResolveAssemblyReference.cache
+D:\Code\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe.config
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.exe
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.pdb
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.ExceptionIp.resources
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Form1.resources
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Properties.Resources.resources
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csproj.GenerateResource.Cache
+D:\Code\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe
+D:\Code\SaveReportData\SaveReportData\bin\Debug\SaveReportData.pdb
+D:\Code\SaveReportData\SaveReportData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe.config
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.exe
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.pdb
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\SaveReportData.exe
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\SaveReportData.pdb
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csprojResolveAssemblyReference.cache
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.ExceptionIp.resources
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Form1.resources
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.Properties.Resources.resources
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csproj.GenerateResource.Cache
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\MySql.Data.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\Google.Protobuf.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\Zstandard.Net.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\Renci.SshNet.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\System.Buffers.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\bin\Debug\MySql.Data.xml
+C:\Users\V0991290\Desktop\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csproj.SaveReportData.exe.config
+D:\Code\SaveReportData\SaveReportData\obj\Debug\SaveReportData.csprojResolveAssemblyReference.cache

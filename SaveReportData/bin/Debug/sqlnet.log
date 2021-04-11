@@ -1,0 +1,20 @@
+
+
+***********************************************************************
+Fatal NI connect error 12535, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=10.224.81.11)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=vnap)(CID=(PROGRAM=D:\Code\SaveReportData\SaveReportData\bin\Debug\SaveReportData.vshost.exe)(HOST=V0991291-IT)(USER=V0991291))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 9.2.0.1.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 9.2.0.1.0 - Production
+  Time: 18-9月 -2020 10:32:40
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12535
+    TNS-12535: TNS:作業逾時
+    ns secondary err code: 12560
+    nt main err code: 505
+    TNS-00505: 作業逾時
+    nt secondary err code: 60
+    nt OS err code: 0
